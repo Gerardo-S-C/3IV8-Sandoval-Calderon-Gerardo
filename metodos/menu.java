@@ -27,6 +27,6 @@ public class menu{
         }
         int input = JOptionPane.showConfirmDialog(null, "Quiere repetir?", "o__o",JOptionPane.YES_NO_OPTION);
                 //System.out.println(input);
-    }while (false);
+    }while (true);
     }
 }
